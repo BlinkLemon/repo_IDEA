@@ -13,8 +13,11 @@ public class test1 {
         System.out.println("hello");
         System.out.println("hello");
         //--------------------------------
+        //lalaaaaaaaaaaaaaaaalallalalla
     }
     public void showTest(){
+        int i =0;
+        i++;
         System.out.println("test");
     }
 }
