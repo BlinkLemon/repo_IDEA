@@ -14,4 +14,7 @@ public class test1 {
         System.out.println("hello");
         //--------------------------------
     }
+    public void showTest(){
+        System.out.println("test");
+    }
 }
