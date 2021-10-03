@@ -27,4 +27,9 @@ public class test1 {
     public int show2(){
         return 0;
     }
+
+    public char show4(){
+        return '#';
+    }
+
 }
