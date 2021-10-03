@@ -20,4 +20,11 @@ public class test1 {
         i++;
         System.out.println("test");
     }
+    public String show1(){
+        return "www.baidu.com";
+    }
+
+    public int show2(){
+        return 0;
+    }
 }
